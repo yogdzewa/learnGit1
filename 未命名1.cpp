@@ -4,5 +4,6 @@ int main()
 {
 	string str;
 	while (getline(cin, str))
-		cout << str << endl<<endl;
+		cout << str << endl<<endl<<endl;
+
 }
